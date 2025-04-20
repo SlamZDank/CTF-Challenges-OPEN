@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Conane CTF: Cryptic Gambit</title>
+    <style>
+        body { 
+            font-family: 'Arial', sans-serif; 
+            background: #1a1a1a; 
+            color: #e0e0e0; 
+            text-align: center;
+        }
+        .container { 
+            max-width: 800px; 
+            margin: 50px auto; 
+            padding: 20px; 
+            border: 2px solid #2c2c2c; 
+            border-radius: 10px;
+        }
+        h1 { 
+            color: #ff4081; 
+            font-family: 'MedievalSharp', cursive;
+        }
+        input[type="text"] { 
+            padding: 10px; 
+            width: 300px; 
+            background: #2c2c2c; 
+            border: 1px solid #444; 
+            color: #fff;
+        }
+        button { 
+            background: #ff4081; 
+            color: #fff; 
+            border: none; 
+            padding: 10px 20px; 
+            cursor: pointer;
+        }
+        .hint { 
+            color: #888; 
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>♟️ Conane’s Cryptic Gambit</h1>
+        <p>Uncover the legendary chess move hidden by Conane. Only the worthy shall prevail.</p>
+        <form action="/search" method="GET">
+            <input type="text" name="move" placeholder="Search for a move (e.g., 'e4')">
+            <button type="submit">Search</button>
+        </form>
+        <div class="hint">
+            <p>"The key lies in the essence of truth, hashed by the ancients."</p>
+            <!-- MD5("flag") -->
+        </div>
+    </div>
+</body>
+</html>

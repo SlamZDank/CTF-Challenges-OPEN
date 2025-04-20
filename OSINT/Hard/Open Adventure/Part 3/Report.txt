@@ -1,0 +1,9 @@
+Part 3:
+
+Inner-Thoughts: This is taking me a longer time than usual to figure out the exact position of the victim, and time is running out, I have gotta make a move real fast... ah, wait a minute, what is this, is this a picture that Henry (friend of John) sent, it says "Please, Detective... He's THERE go and SAVE HIM FAST!! I BEG OF YOU", the attachement is a hand drawn sketch of what it seems to be some place near a historical building in New York.
+This makes it very likely that John was kidnapped, and he needs help, but what if it all turns out to be a dubious trap???
+
+Ah, this feels like a gamble, but intrusive thoughts aside, I need to figure out the name of the Building that he marked, so I can act quickly.
+
+Format the flag like this.
+CyberTrace{BuildingName}

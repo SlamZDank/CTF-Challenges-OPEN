@@ -1,1 +1,1 @@
-# CTF-Challenges-OPEN
+# CTF-Challenges

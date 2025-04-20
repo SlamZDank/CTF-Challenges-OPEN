@@ -1,0 +1,8 @@
+Part 2:
+
+Inner-thoughts: After digging up where the aforementioned area where he got lost, I suddenly caught wind of an image posted by John on social media, so this rules out the possiblity of him meeding his doom in a plane crash, hmm let me take the picture and analyse it to figure out where he went before he became missing.
+I should determine the exact coordinates of where he is located, starting by both x and y coordinates.
+
+Flag Format
+CyberTrace{xx.xxxx/-yy.yyyy}
+Where there are exactly four trailing numbers for each coordinate.

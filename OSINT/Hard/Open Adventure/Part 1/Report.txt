@@ -1,0 +1,11 @@
+Part 1:
+
+Quandale: Hello, i've come to you since you are the greatest detective in the world, well you see, I have a friend who is named "John Dewwiw" and who is abroad in America, after the message he send to me on 24 of december I haven't heard of him since, he's been absent for a whole 4 months, it turns out, that after contacting his family, he went missing...
+Can you please identify where he has gone, the last picture he gave me was taken in this airport...
+
+Inner-Thoughts: That is a very interesting clue, I should first pinpoint, from the picture, where the lost friend is arriving at by determining the IATA code of the airline, and the code of the plane he took.
+
+HINT: There's a freely available tool to go way back to the past.
+
+Flag Format
+CyberTrace{IATA_ID}
