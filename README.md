@@ -80,11 +80,11 @@ The **CyberSummit V3 CTF** is a security competition designed for both enthusias
 
 Huge thanks to our challenge authors:
 
-- @Deadnaut0 - Cryptography, Misc and Reverse Engineering challenges
+- [@Deadnaut0](https://github.com/Deadnaut0) - Cryptography, Misc and Reverse Engineering challenges
 
-- @SlamZDank - Forensics and Osint challenges
+- [@SlamZDank](https://github.com/SlamZDank) - Forensics and Osint challenges
 
-- @Mbarki-azer - Web challenges
+- [@Mbarki-azer](https://github.com/Mbarki-azer) - Web challenges
 
 Thanks also to all participants and sponsors of CyberSummit V3!
 
